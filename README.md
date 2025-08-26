@@ -1,6 +1,15 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><img src="https://drive.google.com/file/d/1FP-8afXjvXzg7iwYgyXzrokCQ9grbZVd/view?usp=sharing" width="400" alt="Avatar"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1iJbKJ5skVparn0XbKt5Ml3e8unRPtWH1/view?usp=sharing" width="400" alt="produk"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1_mn7IbaCnSTBREoWIh_oayVnvofTfcaI/view?usp=sharing" width="400" alt="visi"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1KobzuJjMVx1DxDeogxFLrS49ubbUdga2/view?usp=sharing" width="400" alt="galery"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1BsggRSBZXkpsA8G1y9JKUzsCPJ_WrIQm/view?usp=sharing" width="400" alt="footer"></p>
+<p align="center"><img src="https://drive.google.com/file/d/1RGuKDxBjENOP3EgnJD-iisTv4XD8EWsQ/view?usp=sharing" width="400" alt="detail_produk"></p>
 
-## About Laravel
+## use framework
+<ul>
+    <li>Laravel</li>
+    <li>filament</li>
+    <li>Tailwindcss</li>
+</ul>
 
 
-## Laravel
